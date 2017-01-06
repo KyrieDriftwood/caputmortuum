@@ -1,6 +1,6 @@
 +++
 categories = ["propaganda"]
-comments = false
+comments = true
 date = "2016-10-03T16:59:13-04:00"
 draft = false
 showpagemeta = true
