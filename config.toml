@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://github.com/KyrieDriftwood/caputmortuum" 
+baseurl = "https://kyriedriftwood.github.io/caputmortuum/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "se"
