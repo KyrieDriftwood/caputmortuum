@@ -1,0 +1,67 @@
+## Basic Configuration
+
+baseurl = "https://github.com/KyrieDriftwood/caputmortuum" 
+builddrafts = false
+canonifyurls = false
+languageCode = "se"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Erlich Bachman"
+title = "Erlich Bachman"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = ""
+intro = "CAPUT MORTUUM"
+description = "Det finns en smak av det som är fördolt. En smak i det som är tillvarons väv. <br>Liksom ett dolt budskap, ett smakernas arcana. <br>Smakerna avslöjar tillvarons inre och tillvarons inre ger sig tillkänna genom dem."
+authorimage = "logo_svart_ram.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "<username>"
+instagram = "<username>"
+linkedin = "<username>"
+twitter = "<username>"
+facebook = "<username>"
+google = "<username>"
+stackoverflow = "<username>"
+email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
