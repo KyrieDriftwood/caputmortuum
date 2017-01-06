@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = ""
 intro = "CAPUT MORTUUM"
 description = "Det finns en smak av det som är fördolt. En smak i det som är tillvarons väv. <br>Liksom ett dolt budskap, ett smakernas arcana. <br>Smakerna avslöjar tillvarons inre och tillvarons inre ger sig tillkänna genom dem."
-authorimage = "logo_svart_ram.png"
+authorimage = "logo.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
