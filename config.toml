@@ -51,17 +51,17 @@ hightlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
+    name = "VÅRA ÖLER"
     weight = 100
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
-    name = "about"
+    name = "TEXTER"
     identifier = "about"
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "coderag"
+    name = "BRYGGERIET"
     identifier = "coderag"
     weight = 300
     url = "/coderag/"

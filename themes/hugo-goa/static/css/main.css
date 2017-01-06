@@ -238,14 +238,14 @@ section.meta {
 }
 header.title
 {
-    margin-top: 50px;
+    margin-top: 20px;
     padding: 0 15px;
 }
 @media (max-width: 991px)
 {
     .header
     {
-        margin-top: 50px;
+        margin-top: 20px;
         margin-bottom: 20px;
     }
     .list
