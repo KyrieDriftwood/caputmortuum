@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kyriedriftwood.github.io/caputmortuum/blog/Elisabeth/</loc>
+    <lastmod>2017-01-07T15:18:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kyriedriftwood.github.io/caputmortuum/blog/BlandandeMorker/</loc>
+    <lastmod>2017-01-07T14:33:56+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kyriedriftwood.github.io/caputmortuum/blog/Maximos/</loc>
     <lastmod>2017-01-06T18:31:57+01:00</lastmod>
   </url>
@@ -17,13 +27,13 @@
   </url>
   
   <url>
-    <loc>https://kyriedriftwood.github.io/caputmortuum/tags/about/</loc>
+    <loc>https://kyriedriftwood.github.io/caputmortuum/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kyriedriftwood.github.io/caputmortuum/categories/about/</loc>
+    <loc>https://kyriedriftwood.github.io/caputmortuum/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -54,7 +64,13 @@
   
   <url>
     <loc>https://kyriedriftwood.github.io/caputmortuum/blog/</loc>
-    <lastmod>2017-01-06T18:31:57+01:00</lastmod>
+    <lastmod>2017-01-07T15:18:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyriedriftwood.github.io/caputmortuum/</loc>
+    <lastmod>2017-01-07T15:18:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,12 +82,6 @@
   <url>
     <loc>https://kyriedriftwood.github.io/caputmortuum/coderag/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kyriedriftwood.github.io/caputmortuum/</loc>
-    <lastmod>2017-01-06T18:31:57+01:00</lastmod>
     <priority>0</priority>
   </url>
   

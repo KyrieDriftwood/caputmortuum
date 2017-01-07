@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Erlich Bachman"
-title = "Erlich Bachman"
+author = "TEST"
+title = "Caput Mortuum"
 
 theme = "hugo-goa"
 
@@ -21,11 +21,12 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = ""
-intro = "CAPUT MORTUUM"
-description = "Det finns en smak av det som är fördolt. En smak i det som är tillvarons väv. <br>Liksom ett dolt budskap, ett smakernas arcana. <br>Smakerna avslöjar tillvarons inre och tillvarons inre ger sig tillkänna genom dem."
+author = "C A P U T M O R T U U M"
+intro = ""
+description = "Det finns en smak av det som är fördolt. En smak i det som är tillvarons väv. <br>Liksom ett dolt budskap, ett smakernas arcana. <br>Smakerna avslöjar tillvarons inre och tillvarons inre ger sig tillkänna genom dem. "
 authorimage = "logo.png"
 dateformat = "Jan 2, 2006"
+test = "test"
 
 ## Site Meta Settings
 [params.meta]
@@ -45,23 +46,23 @@ email = "you@example.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2016. [CC](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 hightlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "VÅRA ÖLER"
+    name = "Ö L"
     weight = 100
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
-    name = "TEXTER"
+    name = "T E X T"
     identifier = "about"
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "BRYGGERIET"
+    name = "B R Y G G E R I E T"
     identifier = "coderag"
     weight = 300
     url = "/coderag/"

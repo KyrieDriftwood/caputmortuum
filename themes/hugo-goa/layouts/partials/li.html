@@ -1,11 +1,13 @@
-<section id="list-pane" class="row list">
+<section id="list-pane" class="row list text-center">
   <ul >
     {{ range .Data.Pages.ByPublishDate }}
     <li class="list-entry">
       <a class="list-entry-link" href="{{ .Permalink }}">{{ .Title }}</a>
       <p class="meta">
-        {{ .Date.Format .Site.Params.dateformat | upper }} 
-        <span class="category">
+<!--         {{ .Date.Format .Site.Params.dateformat | upper }} 
+ -->        
+      {{ .Title }}
+      <span class="category">
         {{ $total := len .Params.categories }}
         {{ if gt $total 0 }}
         —

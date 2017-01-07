@@ -1,3 +1,5 @@
+
+
 @-ms-viewport
 {
     width: device-width;
@@ -10,6 +12,17 @@
 {
     width: device-width;
 }
+
+    @font-face {
+    font-family: "et-book";
+    src: url("fonts/et-book/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
+    src: url("fonts/et-book/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg");
+    font-weight: normal;
+    font-style: italic
+    
+
+
+
 a,
 a:hover,
 a:visited,
@@ -42,7 +55,11 @@ html
 }
 .author
 {
-    color: #444;
+    /*color: #444;*/
+    color: #222222; 
+    font-family: 'et-book', serif;
+    font-weight: italic;
+
 }
 .author h1,
 .author h2,
@@ -52,7 +69,11 @@ html
 .author h6,
 .author p
 {
-    font-family: 'Roboto Slab', serif;
+    
+
+
+
+}
 }
 .category
 {
@@ -86,9 +107,10 @@ div.content
 }
 .description
 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 200;
-    color: #bbb;
+/*    font-family: 'Roboto', sans-serif;
+*/    
+    font-family: 'et-book', serif;
+
 }
 .error
 {
@@ -125,7 +147,7 @@ div.content
 }
 .header
 {
-    margin-top: 60px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 .headshot
@@ -140,6 +162,7 @@ div.content
 }
 .intro
 {
+
     font-family: 'Roboto Slab', serif;
     font-weight: 200;
     color: #777;
@@ -254,11 +277,12 @@ header.title
 
         margin-top: 30px;
     }
-}
 
-@media (max-width: 991px) {
-img{
+    img{
     height:auto;
     width:100%;
+
+    
 }
 }
+
