@@ -6,8 +6,26 @@
     <description>Recent content on Caput Mortuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>se</language>
-    <lastBuildDate>Sat, 07 Jan 2017 15:18:41 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2017 22:31:39 +0100</lastBuildDate>
     <atom:link href="https://kyriedriftwood.github.io/caputmortuum/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title> C A P U T M O R T U U M</title>
+      <link>https://kyriedriftwood.github.io/caputmortuum/text/caputmortuum/</link>
+      <pubDate>Sun, 08 Jan 2017 22:31:39 +0100</pubDate>
+      
+      <guid>https://kyriedriftwood.github.io/caputmortuum/text/caputmortuum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://kyriedriftwood.github.io/caputmortuum/about/new/</link>
+      <pubDate>Sat, 07 Jan 2017 19:32:04 +0100</pubDate>
+      
+      <guid>https://kyriedriftwood.github.io/caputmortuum/about/new/</guid>
+      <description>&lt;h1&gt; hello &lt;/h1&gt;	</description>
+    </item>
     
     <item>
       <title>M O D E R | E L I S A B E T H S | S T R Å L G L A N S</title>
@@ -15,7 +33,8 @@
       <pubDate>Sat, 07 Jan 2017 15:18:41 +0100</pubDate>
       
       <guid>https://kyriedriftwood.github.io/caputmortuum/blog/Elisabeth/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;img/labels/Mother.png&#34; alt=&#34;Maximos&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,7 +43,7 @@
       <pubDate>Sat, 07 Jan 2017 14:33:56 +0100</pubDate>
       
       <guid>https://kyriedriftwood.github.io/caputmortuum/blog/BlandandeMorker/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/labels/Maximus.png&#34; alt=&#34;Maximos&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;img/labels/Darkness.png&#34; alt=&#34;Maximos&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -35,20 +54,6 @@
       
       <guid>https://kyriedriftwood.github.io/caputmortuum/blog/Maximos/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/labels/Maximus.png&#34; alt=&#34;Maximos&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://kyriedriftwood.github.io/caputmortuum/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://kyriedriftwood.github.io/caputmortuum/about/</guid>
-      <description>&lt;p&gt;Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]&lt;/p&gt;
-
-&lt;p&gt;In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.&lt;/p&gt;
-
-&lt;p&gt;In Two Days of the Condor, it is revealed that Erlich no longer codes due to carpal tunnel syndrome.&lt;/p&gt;
 </description>
     </item>
     
