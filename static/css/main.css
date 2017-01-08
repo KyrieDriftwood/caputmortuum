@@ -127,7 +127,7 @@ div.content
 }
 .copyright
 {
-    font-family: 'et-book', sans-serif;
+    font-family: 'et-book', 'Roboto' sans-serif;
     font-size: 12px;
     font-weight: 200;
 }
