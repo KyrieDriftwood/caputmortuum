@@ -1,12 +1,13 @@
 <header class="row text-left title">
-  <h1 class="title">{{ .Title }}</h1>
+  <h2 class="title">{{ .Title }}</h1>
 </header>
 <section id="category-pane" class="row meta">
   {{ if ne .Params.showpagemeta false }}
   <div class="col-md-12">
-    <h6 class="text-left meta">
-<!--       PUBLISHED ON {{ .Date.Format .Site.Params.dateformat | upper }} 
- -->      {{ $total := len .Params.categories }}
+<!--     <h class="text-left meta">
+ --><!--       PUBLISHED ON {{ .Date.Format .Site.Params.dateformat | upper }} 
+ -->      
+    {{ $total := len .Params.categories }}
       {{ if gt $total 0 }}
       — 
       {{ $total := sub $total 1 }}

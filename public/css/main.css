@@ -101,6 +101,10 @@ html
 {
     color: #966 !important;
 }
+
+.inspiration {
+    text-align: right;
+}
 .container
 {
     overflow: auto;
@@ -116,7 +120,7 @@ html
 div.content
 {
     font-family: 'et-book';
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 300;
 
     color: #777;
@@ -254,6 +258,17 @@ a.meta
 {
     color: #966;
 }
+p.center {  
+    text-align: center;}
+p.first {
+    text-indent: 3em;
+}
+p.second{
+    text-indent: -5em;
+}p.third {
+    text-indent: 0em;
+}
+
 h6.meta
 {
     font-family: 'et-book', sans-serif;

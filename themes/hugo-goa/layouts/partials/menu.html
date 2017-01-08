@@ -4,7 +4,7 @@
   <span><a class="menu-item" href="{{ .Permalink }}">&lt; T I D I G A R E | </a></span>
   {{ end }}
   {{ if (or (.PrevInSection) (.NextInSection)) }}
-  <span><a class="menu-item" href="{{ .Section | relURL }}">{{ .Section | }}</a></span>
+  <span><a class="menu-item" href="{{ .Section | relURL }}"><!-- {{ .Section | }} --> </a></span>
   {{ end }}
   {{ with .NextInSection }}
   <span><a class="menu-item" href="{{ .Permalink }}"> | N Ä S T A &gt;</a></span>

@@ -5,6 +5,6 @@ slug = ""
 tags = []
 categories = []
 
-showpagemeta = true
-showcomments = true
+showpagemeta = false
+showcomments = false
 +++

@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "C A P U T M O R T U U M"
 intro = ""
-description = "Det finns en smak av det som är fördolt. En smak i det som är tillvarons väv. <br>Liksom ett dolt budskap, ett smakernas arcana. <br>Smakerna avslöjar tillvarons inre och tillvarons inre ger sig tillkänna genom dem. "
+description = "Smaken av det som är gott <br> Är ett litet tecken <br> Som visar hän <br>Mot någonting gömt"
 authorimage = "logo.png"
 dateformat = "Jan 2, 2006"
 test = "test"
@@ -36,13 +36,13 @@ keywords = "minimalist,blog,goa,hugo,developer"
 ## Social Accounts
 [params.social]
 github = "<username>"
-instagram = "<username>"
+instagram = "_caputmortuum"
 linkedin = "<username>"
 twitter = "<username>"
 facebook = "<username>"
 google = "<username>"
 stackoverflow = "<username>"
-email = "you@example.com"
+email = "info@caputmortuum.se"
 
 ## Extras
 [params.extra]
@@ -52,7 +52,7 @@ hightlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "Ö L"
+    name = "Ö L "
     weight = 100
     identifier = "blog"
     url = "/blog/"
@@ -60,9 +60,5 @@ hightlightjs = true
     name = "T E X T"
     identifier = "about"
     weight = 200
-    url = "/about/"
-[[menu.main]]
-    name = "B R Y G G E R I E T"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
+    url = "/text/caputmortuum"   
+

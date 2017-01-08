@@ -6,8 +6,9 @@
       <p class="meta">
 <!--         {{ .Date.Format .Site.Params.dateformat | upper }} 
  -->        
-      {{ .Title }}
-      <span class="category">
+<!--       {{ .Title }}
+ -->      
+ <span class="category">
         {{ $total := len .Params.categories }}
         {{ if gt $total 0 }}
         —
