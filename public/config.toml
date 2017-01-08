@@ -1,0 +1,64 @@
+## Basic Configuration
+
+baseurl = "https://kyriedriftwood.github.io/caputmortuum/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "se"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "TEST"
+title = "Caput Mortuum"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "C A P U T M O R T U U M"
+intro = ""
+description = "Smaken av det som är gott <br> Är ett litet tecken <br> Som visar hän <br>Mot någonting gömt"
+authorimage = "logo.png"
+dateformat = "Jan 2, 2006"
+test = "test"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "<username>"
+instagram = "_caputmortuum"
+linkedin = "<username>"
+twitter = "<username>"
+facebook = "<username>"
+google = "<username>"
+stackoverflow = "<username>"
+email = "info@caputmortuum.se"
+
+## Extras
+[params.extra]
+copyright = "© 2016. [CC](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "Ö L "
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "T E X T"
+    identifier = "about"
+    weight = 200
+    url = "/text/caputmortuum"   
+
