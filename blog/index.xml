@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Caput Mortuum</title>
+    <link>https://kyriedriftwood.github.io/caputmortuum/blog/index.xml</link>
+    <description>Recent content in Blogs on Caput Mortuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>se</language>
+    <lastBuildDate>Sat, 07 Jan 2017 15:18:41 +0100</lastBuildDate>
+    <atom:link href="https://kyriedriftwood.github.io/caputmortuum/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M O D E R | E L I S A B E T H S | S T R Å L G L A N S</title>
+      <link>https://kyriedriftwood.github.io/caputmortuum/blog/Elisabeth/</link>
+      <pubDate>Sat, 07 Jan 2017 15:18:41 +0100</pubDate>
+      
+      <guid>https://kyriedriftwood.github.io/caputmortuum/blog/Elisabeth/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/labels/Mother.png&#34; alt=&#34;Maximos&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>D E T | B L Ä N D A N D E | M Ö R K R E T</title>
+      <link>https://kyriedriftwood.github.io/caputmortuum/blog/BlandandeMorker/</link>
+      <pubDate>Sat, 07 Jan 2017 14:33:56 +0100</pubDate>
+      
+      <guid>https://kyriedriftwood.github.io/caputmortuum/blog/BlandandeMorker/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/labels/Darkness.png&#34; alt=&#34;Maximos&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>M A X I M U S | B E K Ä N N A R E N</title>
+      <link>https://kyriedriftwood.github.io/caputmortuum/blog/Maximos/</link>
+      <pubDate>Fri, 06 Jan 2017 18:31:57 +0100</pubDate>
+      
+      <guid>https://kyriedriftwood.github.io/caputmortuum/blog/Maximos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/labels/Maximus.png&#34; alt=&#34;Maximos&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
