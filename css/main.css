@@ -335,7 +335,7 @@ header.title
 
     div.content
     { 
-    padding: 0px 10px 20px 50px;
+    padding: 0px 30px 20px 30px;
      }
 
 .list-entry
@@ -360,7 +360,7 @@ header.title
 }
 .title-text
 {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .container
