@@ -329,7 +329,17 @@ header.title
     }
     div.content
     { 
-    padding: 50px 30px 50px 80px;
+    padding: 0px 10px 20px 50px;
      }
+.list-entry
+{
+    font-family: 'et-book-bold-line-figures', serif;
+    font-size: 15px;
+    font-weight: 400;
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
 }
 
