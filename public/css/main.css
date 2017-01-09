@@ -110,7 +110,7 @@ html
     overflow: auto;
 
     max-width: 800px;
-    padding: 0 0 px;
+    padding: 0 0px;
 }
 .content
 {
@@ -244,7 +244,7 @@ img
 }
 .menu
 {
-    margine-top: 10px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 .menu-item
@@ -340,7 +340,7 @@ header.title
 .list-entry
 {
     font-family: 'et-book-bold-line-figures', serif;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 400;
 
     margin-top: 10px;
@@ -355,10 +355,19 @@ header.title
 
 .title
 {
-
     font-size: 12px;
-
 }
+
+.container
+{
+    padding-left: 0 px;
+    padding-right: 0 px;
+}
+
+/*.container
+{
+    padding: 0px;
+}*/
 
 
 }
