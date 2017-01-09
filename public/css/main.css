@@ -369,7 +369,10 @@ header.title
     margin-right: 0 px;
 }
 
+ul {
+        padding: 0px 30px 20px 30px;
 
+}
 /*.container
 {
     padding: 0px;
