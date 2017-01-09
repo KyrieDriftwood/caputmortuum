@@ -203,6 +203,13 @@ h3.intro
 {
     margin-top: 0px
 }
+
+img
+    {
+    height:auto;
+    width:100%;
+    }
+
 .list
 {
     font-family: 'et-book', sans-serif;
@@ -323,10 +330,7 @@ header.title
         margin-top: 30px;
     }
 
-    img{
-    height:auto;
-    width:100%;
-    }
+
     div.content
     { 
     padding: 0px 10px 20px 50px;
@@ -341,5 +345,19 @@ header.title
     margin-bottom: 20px;
 
 }
+.menu-item
+{
+    font-size: 12px;
+
+}
+
+.title
+{
+
+    font-size: 20px;
+
+}
+
+
 }
 
