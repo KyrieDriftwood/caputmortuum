@@ -124,7 +124,6 @@ div.content
     font-family: 'et-book';
     font-size: 20px;
     font-weight: 300;
-    color: #FF0000
 
     /*color: #777;*/
 }
@@ -327,8 +326,8 @@ header.title
     img{
     height:auto;
     width:100%;
-
-    
-}
+    }
+    div.content
+    { color: #FF00FF; }
 }
 
