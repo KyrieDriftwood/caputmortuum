@@ -355,14 +355,15 @@ header.title
 
 .title
 {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .container
 {
-    padding-left: 0 px;
-    padding-right: 0 px;
+    margin-left: 0 px;
+    margin-right: 0 px;
 }
+
 
 /*.container
 {
