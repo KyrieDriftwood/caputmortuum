@@ -328,6 +328,8 @@ header.title
     width:100%;
     }
     div.content
-    { color: #FF00FF; }
+    { 
+    padding: 0 15px;
+     }
 }
 
