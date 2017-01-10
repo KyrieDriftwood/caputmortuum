@@ -109,8 +109,10 @@ html
 {
     overflow: auto;
 
-    max-width: 800px;
-    padding: 0 0px;
+    max-width: 700px;
+    padding: 0 15px;
+
+
 }
 .content
 {
